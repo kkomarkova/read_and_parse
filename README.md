@@ -2,7 +2,7 @@
 Read and parse text, xml, yaml, json, csv
 
 #TODO
-- [x] Text
+- [ ] Text
 - [x] XML
 - [x] YAML
 - [x] JSON
