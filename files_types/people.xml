@@ -1,0 +1,29 @@
+<People>
+	<Person>
+	<name>Anders</name>
+	<age>33</age>
+	<likesProgramming>true</likesProgramming>
+	<hobbies>
+		<hobby>Music</hobby>
+		<hobby>Playing with Napster</hobby>
+	</hobbies>
+	</Person>
+	<Person>
+		<name>Filip</name>
+		<age>30</age>
+		<likesProgramming>true</likesProgramming>
+		<hobbies>
+			<hobby>Tennis</hobby>
+			<hobby>Golf</hobby>
+		</hobbies>
+	</Person>
+	<Person>
+		<name>Jakub</name>
+		<age>20</age>
+		<likesProgramming>true</likesProgramming>
+		<hobbies>
+			<hobby>Hockey</hobby>
+			<hobby>Playing with Napster</hobby>
+		</hobbies>
+	</Person>
+</People>
