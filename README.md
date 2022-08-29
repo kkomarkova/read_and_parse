@@ -1,8 +1,9 @@
 # read_and_parse
 Read and parse text, xml, yaml, json, csv
+
 #TODO
-- [] Text
-- [] XML
-- [] YAML
-- [] JSON
-- [] CSV
+- [x] Text
+- [x] XML
+- [x] YAML
+- [x] JSON
+- [x] CSV
