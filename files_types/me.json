@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Anders",
+    "age": 33,
+    "likesProgramming": true,
+    "city": "Copenhagen"
+  },
+  {
+    "name": "Michael",
+    "age": 38,
+    "likesProgramming": true,
+    "city": "Aalborg"
+  }
+]
